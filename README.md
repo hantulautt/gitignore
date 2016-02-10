@@ -19,3 +19,6 @@ index.php
 /* mendefinisikan semua file yang berextensi .txt */
 
 *.txt
+
+
+# SELAMAT MENCOBA - SEMOGA BERMANFAAT
